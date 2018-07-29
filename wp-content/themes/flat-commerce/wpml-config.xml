@@ -1,0 +1,17 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_flat-commerce">
+            <key name="flat_commerce_theme_options">
+                <key name="blogname"/>
+                <key name="blogdescription"/>
+                <key name="featured_header_image_alt"/>
+                <key name="promotion_headline"/>
+                <key name="promotion_subheadline"/>
+                <key name="recent_products_title"/>
+                <key name="bottom_section_title"/>
+                <key name="bottom_section_sub_title"/>
+                <key name="latest_blog_heading"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
