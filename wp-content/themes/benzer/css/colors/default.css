@@ -1,0 +1,399 @@
+﻿/*=========================================
+    Primary Color
+=========================================*/
+/* Header CSS */
+.header-top-info-1 .social li a i:hover {
+    background: #6ea81a;
+}
+
+/* Menu CSS */
+.navbar-brand::first-letter {
+	color: #6ea81a !important;
+}
+.navbar-default .navbar-nav>.active > a, .navbar-default .navbar-nav>.active>a:hover, .dropdown-menu > .active > a {
+    background: #6ea81a !important;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+    color: #6ea81a !important;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+    background: #6ea81a !important;
+}
+
+/* Slider CSS */
+.slider-version-one .caption h1 span{
+    color: #6ea81a;
+}
+.specia-btn-1:hover{
+    background: #6ea81a;
+	border-color: #6ea81a;
+}
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+    background: #6ea81a;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #6ea81a;
+}
+
+/* Service CSS */
+.section-heading span{
+    color: #6ea81a;
+}
+.service-version-one .service-title a:hover, .service-version-one .service-title a:active, .service-version-one .service-title a:focus {
+    color: #6ea81a;
+}
+
+/* Cal Action CSS */
+.call-to-action .background-overlay{
+    background: #6ea81a;
+}
+.call-to-action .call-btn-1:hover {
+    color: #6ea81a;
+}
+
+/* Service Section CSS */
+.service-version-one .service-icon-box i:hover {
+    background: #6ea81a;
+}
+.specia-icon-effect-1 .specia-icon:after {
+	box-shadow: 0 0 0 4px #6ea81a;
+}
+.specia-icon-effect-5 .specia-icon:hover {
+	box-shadow: 0 0 0 4px #6ea81a;
+}
+.specia-icon-effect-6 .specia-icon:hover {
+	box-shadow: 0 0 0 4px #6ea81a;
+}
+.specia-icon-effect-8 .specia-icon:hover {
+	background: #6ea81a;
+}
+/* Features Section CSS */
+.features-version-one h2 span{
+    color: #6ea81a;
+}
+.features-version-one .feature-box-info h4{
+    color: #6ea81a;
+}
+
+/* Latest Blog Section CSS */
+.blog-version-1 article:hover footer.entry-footer{
+     background: #6ea81a;
+}
+.entry-content .more-link:hover {
+    background: #6ea81a;
+	border: solid 2px #6ea81a;
+}
+
+/* Footer Section CSS */
+.footer-sidebar .widget .title-border { 
+    border-bottom: 2px solid #6ea81a;
+}
+.widget table #next a, .widget table #prev a { 
+	color: #6ea81a; font-weight: 600; 
+}
+.footer-sidebar  .widget ul li a:hover, .widget ul li a:active { 
+    color: #6ea81a; 
+}
+.footer-sidebar .widget input[type="submit"]:hover{
+    background: #6ea81a;
+    border-color: #6ea81a;
+}
+.footer-sidebar .tagcloud a:hover, .tagcloud a:focus {  
+    border: 1px solid #6ea81a;
+    background: #6ea81a;
+}  
+
+/* Copyright Content */
+.payment-icon li a:hover{
+    color: #6ea81a;
+}
+.footer-copyright p a:hover{
+    color: #6ea81a;
+}
+.top-scroll {
+    border-color: #6ea81a;
+    color: #6ea81a;
+}
+
+/* Pagination CSS */
+.paginations a:hover, .paginations a:focus, .paginations a.active, span.page-numbers.current {
+    border: 1px solid #6ea81a;
+    background-color: #6ea81a;
+}
+
+/* Blog Page CSS */
+.page-wrapper article:hover footer.entry-footer {
+     background: #6ea81a;
+}
+.comment-reply-title {
+    border-top: 4px solid #6ea81a;
+}
+.required {
+    color: #6ea81a;
+}
+a.comment-reply-link {
+    color: #6ea81a;
+}
+
+/* Error Page CSS */
+.error-page h1{
+    color: #6ea81a;
+}
+
+/* Form Element CSS */
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+    background: #6ea81a;
+    border: solid 2px #6ea81a;
+}
+
+/* Breadcrumb CSS */
+.page-breadcrumb a{
+    color: #6ea81a;
+}
+
+/*Sidebar Area CSS */
+.sidebar .widget .widget-title {
+    color: #0d0d0d;
+}
+.sidebar .widget input[type="submit"] {
+    color: #0d0d0d;
+    border: solid 2px #0d0d0d;
+}
+.sidebar .widget table caption { 
+    background: #0d0d0d;
+}
+/* Typography */
+blockquote { 
+    border-left: 5px solid #6ea81a !important;
+}
+table th {     
+    border: 1px solid #6ea81a;
+    background: #6ea81a;
+}
+em, cite, q { 
+	color: #6ea81a;
+}
+s, strike, del { 
+	color: #6ea81a; 
+}
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+    color: #6ea81a;
+}
+body a {
+    color: #6ea81a;
+}
+body a:focus, body a:hover {
+    color: #6ea81a;
+}
+
+/* Form */
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+    background: #6ea81a;
+    border: solid 2px #6ea81a;
+}
+
+/* WooCommerce */
+.woocommerce a.button:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce #respond input#submit:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce button.button.alt.disabled:hover,
+.woocommerce-cart table.cart input.button:hover,
+.woocommerce input.button:hover,
+.woocommerce button.button:hover {
+	background: #6ea81a;
+    border: solid 2px #6ea81a;
+}
+.woocommerce nav.woocommerce-pagination ul li span.current {
+	background: #6ea81a;
+	border: solid 1px #6ea81a;
+}
+.woocommerce nav.woocommerce-pagination a.page-numbers:hover {
+	background: #6ea81a;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover {
+	background: #6ea81a;
+    border: solid 2px #6ea81a;
+}
+.woocommerce p.stars a {
+	color: #6ea81a;
+}
+.woo-sidebar .widget .title-border { 
+    border-bottom: 2px solid #6ea81a;
+}
+.woocommerce a.remove:hover {
+	background: #6ea81a;
+}
+.price_slider_wrapper .ui-slider .ui-slider-handle {
+    border: 5px solid #6ea81a;
+}
+.price_slider_wrapper .ui-slider .ui-slider-range {
+  background: #6ea81a;
+}
+.woocommerce-MyAccount-navigation ul li.is-active {
+	background: #6ea81a;
+}
+
+/* --------------------------------------
+=========================================
+    Secondary Color
+=========================================
+-----------------------------------------*/
+/* Menu CSS */
+.navbar-brand {
+	color: #0d0d0d !important;
+}
+/* Slider CSS */
+.owl-theme .owl-controls .owl-nav [class*=owl-] {
+    background: #202c3b;
+}
+/* Service CSS */
+.section-heading{
+    color: #0d0d0d;
+}
+.specia-icon-effect-1 .specia-icon {
+	background: #0d0d0d;
+}
+.specia-icon-effect-2 .specia-icon:after {
+	background: #0d0d0d;
+}
+.specia-icon-effect-3 .specia-icon:after {
+	background: #0d0d0d;
+}
+.specia-icon-effect-4 .specia-icon {
+	background: #0d0d0d;
+	box-shadow: 0 0 0 4px #0d0d0d;
+}
+.specia-icon-effect-5 .specia-icon {
+	box-shadow: 0 0 0 4px #0d0d0d;
+	background: #0d0d0d;
+}
+.specia-icon-effect-6 .specia-icon {
+	background: #0d0d0d;
+	box-shadow: 0 0 0 4px #0d0d0d;
+}
+.specia-icon-effect-8 .specia-icon {
+	background: #0d0d0d;
+}
+
+/* Latest Blog Section CSS */
+.blog-version-1 footer.entry-footer {
+    background: #0d0d0d;
+}
+.entry-content .more-link {
+    color: #0d0d0d;
+    border: solid 2px #0d0d0d;
+}
+
+/* Footer Section CSS */
+.footer-sidebar .widget table caption, .woo-sidebar .widget table caption  { 
+    background: #0d0d0d;
+}
+.footer-sidebar .background-overlay {
+	background: #0d0d0d;
+}
+.footer-copyright, .footer-copyright p, .footer-copyright p a {
+    background: #0d0d0d;
+}
+/* Blog Page CSS */
+footer.entry-footer {
+    background: #0d0d0d;
+}   
+h2.entry-title a {
+    color: #0d0d0d;
+}
+.entry-header h2.entry-title {
+    color: #0d0d0d;
+}
+
+/* Error Page CSS */
+.error-page h2{
+    color: #0d0d0d;
+}
+
+/* Form Element CSS */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    color: #0d0d0d;
+    border: solid 2px #0d0d0d;
+}
+
+/*Sidebar Area CSS */
+.sidebar .widget ul li a:hover, .widget ul li a:active { 
+    color: #6ea81a; 
+}
+.sidebar .widget table tbody a {
+    color: #6ea81a;
+}
+.sidebar .widget input[type="submit"]:hover{
+    background: #6ea81a;
+    border-color: #6ea81a;
+}
+.sidebar .tagcloud a:hover, .tagcloud a:focus {  
+    border: 1px solid #6ea81a;
+    background: #6ea81a;
+} 
+.sidebar .widget .title-border { 
+    border-bottom: 2px solid #6ea81a;
+}
+
+/* Typography */
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+	color: #0d0d0d;
+}
+blockquote cite, blockquote small { 
+	color: #0d0d0d;
+}
+address { 
+	color: #0d0d0d;
+}
+ins { 
+	color: #0d0d0d;
+}
+/* WooCommerce */
+.woocommerce a.button, 
+.woocommerce button.button.alt, 
+.woocommerce #respond input#submit,
+.woocommerce input.button.alt, 
+.woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled],
+.woocommerce-cart table.cart input.button,
+.woocommerce input.button,
+.woocommerce button.button {
+	color: #0d0d0d;
+    border: solid 2px #0d0d0d;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+    border: solid 2px #0d0d0d;
+	color: #0d0d0d;
+}
+.price_slider_wrapper .ui-slider-horizontal {
+  background: #0d0d0d;
+}
+.woocommerce-MyAccount-navigation ul li {
+	background: #0d0d0d;
+}
+.woocommerce-checkout #payment div.payment_box {
+	background-color: #0d0d0d;
+}
+#add_payment_method #payment div.payment_box:before, .woocommerce-cart #payment div.payment_box:before, .woocommerce-checkout #payment div.payment_box:before {
+	border: 1em solid #0d0d0d;
+}	

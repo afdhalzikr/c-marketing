@@ -1,0 +1,16 @@
+/** Customizer styles **/
+.control-section-blaize-doc{
+ display: block !important;
+}
+#customize-theme-controls .control-section-blaize-doc h3.accordion-section-title {
+   background: #0073aa !important;
+   color: #FFF !important;
+   border: 0;
+}
+.control-section-blaize-doc .accordion-section-title .button {
+    margin-top: -4px;
+    margin-left: 8px;
+    border: none;
+    background: white;
+    float: right;
+}

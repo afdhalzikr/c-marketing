@@ -1,0 +1,33 @@
+/** Meta Styles **/
+.blz-meta-options label {
+    min-width: 120px;
+    display: inline-block;
+    height: 30px;
+    line-height: 27px;
+}
+
+.blz-meta-options input {
+    width: 220px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+
+.blz-meta-heading {
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 12px;
+    margin-bottom: 20px;
+    color: #3a3a3a;
+    position: relative;
+    padding-bottom: 5px;
+}
+
+.blz-meta-heading:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100px;
+    height: 1px;
+    background: #909090;
+}

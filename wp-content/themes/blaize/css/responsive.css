@@ -1,0 +1,246 @@
+@media only screen and (max-width : 1200px) {
+	.blz-container {
+		width: 100%;
+		padding: 0px 20px;
+	}
+
+	#content .blz-container {
+		padding: 40px 20px;
+	}
+
+	#content .home-section .blz-container {
+		padding: 80px 20px;
+	}
+}
+
+@media only screen and (max-width : 1200px) {
+	.blz-blog-post {
+		width: 48%;
+		margin: 0px 8px 40px 8px;
+	}
+
+	.footer-top-widgets .footer-widget {
+		margin: 0px 8px;
+	}
+}
+
+@media only screen and (max-width : 1085px) {
+	.blz-service {
+		width: 100%;
+	    margin: 0px;
+	    margin-bottom: 30px;
+	}
+
+	.blz-service:last-child {
+	    margin-bottom: 0px;
+	}
+
+	.blz-portfolio-wrap figure{
+		width: 48%;
+	}
+
+	.blz-portfolio-wrap figure img{
+		width: 100%;
+	}
+
+	.blz-about-section .layout1 .about-feat-image {
+		padding:  0px;
+	}
+    
+    .blz-portfolio-wrap .portfolio-post {
+        width: 47%;
+    }
+}
+
+@media only screen and (max-width : 850px) {
+	
+	.blz-main-slider .caption {
+		width: 65%;
+	    top: 15%;
+	    left: 18%;
+	}
+
+	.blz-slide .caption h2 {
+		font-size: 30px;
+	}
+
+	.blz-slide .caption div {
+		display: none;
+	}
+
+	.blz-blog-post {
+		width: 100%;
+		margin: 0px;
+		margin-bottom: 40px;
+	}
+
+	.layout1 .aboutus-content-wrap {
+		display: block;
+	}
+
+	.blz-about-section .layout1 .about-page-content {
+	    width: 100%;
+	    padding-right: 0px;
+	    display: block;
+	    vertical-align: unset;
+	    text-align: center;
+	}
+
+	.blz-about-section .layout1 .about-feat-image {
+	    width: 100%;
+	    padding: 0px;
+	    display: block;
+	    vertical-align: unset;
+	    margin-top: 30px;
+	    text-align: center;
+	}
+
+	.blz-vdo-placeholder {
+		width: 100%;
+	}
+
+	.blz-vdo-contents {
+	    width: 100%;
+	    float: right;
+	    position: relative;
+	    margin-top: 20px;
+	    text-align: center;
+	}
+
+	.blz-vdo-contents h2:before {
+	    left: 50%;
+	    transform: translate(-50%, -50%);
+	}
+
+	.blz-popup-search .search-form {
+		width: 90%;
+	}
+    
+    .blz-portfolio-wrap .portfolio-post {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+
+}
+
+@media only screen and (max-width : 768px) {
+   .blz-portfolio-wrap figure{
+	    width: 100%;
+	    max-width: none;
+	    margin: 0px;
+	    margin-bottom: 20px;
+	}
+
+	ul.blz-portfolio-filter li {
+		margin-bottom: 10px;
+	}
+
+	.blz-aboutus-section .about-page-content,
+	.blz-aboutus-section .about-feat-image {
+		width: 100%;
+	}
+
+	.blz-counter {
+		width: 100%;
+		margin-bottom: 40px;
+	}
+
+	.footer-top-widgets .footer-widget {
+		width: 100%;
+	}
+
+	#secondary .widget table th, #secondary .widget table td {
+		padding: 0px;
+	}
+
+	a.nav-toggle {
+		display: block;
+	}
+
+	.main-menu-container {
+		display: none;
+	}
+
+	.mbl-main-menu-container {
+		height: 0px;
+		-webkit-transition: height .3s ease;
+		transition: height .3s ease;
+		overflow: hidden;
+		width: 100%;
+		margin-top: 10px;
+		display: block;
+		background: #f7f7f7;
+	    overflow-y: scroll;
+	}
+
+	.mbl-main-menu-container .sub-menu {
+		display: none;
+	}
+
+	.mbl-main-menu-container .sub-menu.sub-show {
+		display: block;
+	}
+
+	.mbl-main-menu-container ul {
+	    list-style: none;
+	    margin: 0;
+	    padding-left: 40px;
+	}
+
+	.mbl-main-menu-container ul a {
+	    text-decoration: none;
+	    display: inline-block;
+	    width: 100%;
+	    padding: 10px 0px;
+	    border-bottom: 1px solid #f1f1f1;
+	    color: #484848;
+	}
+
+	.mbl-main-menu-container ul li.menu-item-has-children > a:after {
+        content: "+";
+	    display: inline-block;
+	    float: right;
+	    margin-right: 10px;
+	}
+
+	.mbl-main-menu-container ul li.menu-item-has-children.active > a:after {
+		content: "-";
+	}
+
+	.mbl-main-menu-container.show-nav {
+		height: 250px;
+	}
+}
+
+@media only screen and (max-width : 668px) {
+	.section-title-wrap {
+		width: 100%;
+	}
+
+	.left-sidebar #primary,
+	.left-sidebar #secondary,
+	.right-sidebar #secondary,
+	.right-sidebar #primary {
+		width: 100%;
+	}
+
+	.team-thumbnail {
+	    width: 100%;
+	}
+
+	.teamin-social-icons a {
+	    padding: 25px;
+	}
+
+	.team-member-name-content {
+	    width: 100%;
+	    margin-top: 30px;
+	}
+}
+
+@media only screen and (max-width : 375px) {
+	.blz-main-slider .caption {
+		display: none
+	}
+}
